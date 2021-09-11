@@ -14,3 +14,5 @@
 - BLYNK IOT Application
 
 ## Circuit Schematic 
+
+<img src="https://i.ibb.co/cCX24Mt/Picture1.png" alt="Picture1" border="0">
