@@ -16,3 +16,5 @@
 ## Circuit Schematic 
 
 <img src="https://i.ibb.co/cCX24Mt/Picture1.png" alt="Picture1" border="0">
+
+<img src="https://i.ibb.co/sQnWRTJ/Picture2.png" alt="Picture2" border="0">
