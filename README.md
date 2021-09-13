@@ -6,7 +6,7 @@
 - Mq-6 Sensor
 - Buzzer
 - bread board
-- Jumper
+- Jumper Wires
 
 ## Software Used
 
